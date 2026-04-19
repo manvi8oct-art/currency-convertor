@@ -1,0 +1,1 @@
+A web-based currency converter that enables users to convert currencies between different countries with real-time exchange rates. Developed using HTML, CSS, and JavaScript with dynamic DOM manipulation and API integration. 
